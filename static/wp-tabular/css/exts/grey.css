@@ -1,0 +1,78 @@
+/* 
+	Grey Suits you Sir. Please host the images on your own server.
+	written by Stuart Colville http://www.muffinresearch.co.uk
+*/
+
+table.grey,.grey td
+{
+	border               : 1px solid #CCC;
+	border-collapse      : collapse;
+  font                 : small/1.5 "Tahoma", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif;
+}
+table.grey
+{
+	border                :none;
+	border                :1px solid #CCC;
+}
+.grey thead th,
+.grey tbody th
+{
+	background            : #FFF url(th_bck.gif) repeat-x;
+  color                 : #666;  
+	padding               : 5px 10px;
+  border-left           : 1px solid #CCC;
+}
+.grey tbody th
+{
+  background            : #fafafb;
+  border-top            : 1px solid #CCC;
+  text-align            : left;
+  font-weight           : normal;
+}
+.grey tbody tr td
+{
+	padding               : 5px 10px;
+  color                 : #666;
+}
+.grey tbody tr:hover
+{
+  background            : #FFF url(tr_bck.gif) repeat;
+}
+
+.grey tbody tr:hover td
+{
+  color                 : #454545;
+}
+.grey tfoot td,
+.grey tfoot th
+{
+  border-left           : none;
+  border-top            : 1px solid #CCC;
+	padding               : 4px;
+  background            : #FFF url(foot_bck.gif) repeat;
+  color                 : #666;
+}
+.grey caption
+{
+	text-align            : left;
+	font-size             : 120%;
+	padding               : 10px 0;
+	color                 : #666;
+}
+table.grey a:link
+{
+	color                 : #666;
+}
+table.grey a:visited
+{
+	color                 : #666;
+}
+table.grey a:hover
+{
+	color                 : #003366;
+	text-decoration       : none;
+}
+table.grey a:active
+{
+	color                 : #003366;
+}

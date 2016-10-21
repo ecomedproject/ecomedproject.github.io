@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<wp_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>General</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>logo</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>Logo height should be 35px.&amp;lt;br /&amp;gt; 
+&amp;lt;br /&amp;gt; 
+NOTE: Be sure to use the &amp;quot;file URL&amp;quot; of the image and NOT the &amp;quot;Post URL&amp;quot;. When finished, click &amp;quot;insert into post&amp;quot; in order to use image.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>map</item_id>
+    <item_title>Map Pattern</item_title>
+    <item_desc>&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>tagline</item_id>
+    <item_title>Tagline</item_title>
+    <item_desc>This is controlled from the &amp;quot;Tagline&amp;quot; field on the &amp;lt;a href=&amp;quot;options-general.php&amp;quot;&amp;gt;General Settings&amp;lt;/a&amp;gt; page.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>two_column</item_id>
+    <item_title>Two Columns</item_title>
+    <item_desc>&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>layout</item_id>
+    <item_title>Content Position</item_title>
+    <item_desc>Determines where the main content is located.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>select</item_type>
+    <item_options>middle, left, right</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>crumbs_on_off</item_id>
+    <item_title>Bread Crumbs</item_title>
+    <item_desc>&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>back_top</item_id>
+    <item_title>Back to Top Button</item_title>
+    <item_desc>&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>css</item_id>
+    <item_title>Custom CSS (optional)</item_title>
+    <item_desc>Enter your custom CSS here to override or add styling to the theme. NOTE: If you aren&amp;#039;t familiar with CSS, use at your own risk.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>10</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>colors</item_id>
+    <item_title>Colors</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>link_color</item_id>
+    <item_title>Link Color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>link_hover_color</item_id>
+    <item_title>Link Hover Color</item_title>
+    <item_desc>&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>banner_top</item_id>
+    <item_title>Banner Top Color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>banner_bottom</item_id>
+    <item_title>Banner Bottom Color</item_title>
+    <item_desc></item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>slider</item_id>
+    <item_title>Home Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>slider_category</item_id>
+    <item_title>Category</item_title>
+    <item_desc></item_desc>
+    <item_type>category</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>slider_number</item_id>
+    <item_title>Number of Items to Display</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>speed</item_id>
+    <item_title>Auto Rotation Speed</item_title>
+    <item_desc>Enter the speed in milliseconds. For example, 7 seconds would be &amp;quot;7000&amp;quot;.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt; Enter &amp;quot;0000&amp;quot; to deactivate auto rotation.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>alert_box</item_id>
+    <item_title>Alert Box</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>alert_on_off</item_id>
+    <item_title>On/Off</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>alert_content</item_id>
+    <item_title>Message</item_title>
+    <item_desc></item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>home_listings</item_id>
+    <item_title>Home Listings</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>home_category</item_id>
+    <item_title>Category</item_title>
+    <item_desc></item_desc>
+    <item_type>category</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>home_number</item_id>
+    <item_title>Number of Items to Display</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>footer_carousel</item_id>
+    <item_title>Footer Carousel</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>carousel_on_off</item_id>
+    <item_title>On/Off</item_title>
+    <item_desc></item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>On</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>carousel_category</item_id>
+    <item_title>Category</item_title>
+    <item_desc></item_desc>
+    <item_type>category</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>carousel_number</item_id>
+    <item_title>Number of Items to Display</item_title>
+    <item_desc></item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+</wp_option_tree>

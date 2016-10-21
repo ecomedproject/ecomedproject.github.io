@@ -1,0 +1,40 @@
+.deletecol{
+    /*background: url("../../images/delete.png")   no-repeat right top  ;*/
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    float: right;
+    margin:0px 3px 0px 0px !important;
+    /*vertical-align: top;*/
+   
+}
+
+.deleterow{
+    /*background: url("../../images/delete.png")   no-repeat right top  ; */
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top:-3px;
+    left: -7px;
+    margin:0px 3px 0px 0px !important;
+    float: left;
+}
+.featured-package{
+    cursor:pointer;
+    float:right;
+     margin:0px 3px 0px 0px !important;
+}
+.featured-package-edit{
+   cursor:pointer;
+    float:right; 
+     margin:0px 3px 0px 0px !important;
+}
+
+.feature-edit{
+   cursor:pointer;
+   float:left;
+   position: relative;
+   left: -8px;
+   top:-3px; 
+}
